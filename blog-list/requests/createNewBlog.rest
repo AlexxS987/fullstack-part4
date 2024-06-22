@@ -3,7 +3,6 @@ Content-Type: application/json
 
 {
   "title": "Life of Fullstack Programmer",
-  "author": "Anna Sarri",
   "url": "http://testblog.com/123",
   "likes": 23
 }
